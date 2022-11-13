@@ -1,9 +1,9 @@
 import React from "react";
 const Footer=() =>{
     return(
-        <h2 className="font-bold underline">
-            Website
-        </h2>
+        <div className = "flex place-content-center py-4">
+            <p>Piwero</p>
+        </div>
     )
 }
 export default Footer

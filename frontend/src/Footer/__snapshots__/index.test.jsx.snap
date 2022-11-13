@@ -1,9 +1,11 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Footer renders correctly 1`] = `
-<h2
-  className="font-bold underline"
+<div
+  className="flex place-content-center py-4"
 >
-  Website
-</h2>
+  <p>
+    Piwero
+  </p>
+</div>
 `;

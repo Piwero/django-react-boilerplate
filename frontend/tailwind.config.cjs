@@ -1,7 +1,7 @@
 /* eslint-disable global-require */
 
 module.exports = {
-  content: [`./src/**/*.js`, `./src/**/*.tsx`],
+  content: [`./src/**/*.js`, `./src/**/*.jsx`],
   theme: {
     container: {
       center: true,
