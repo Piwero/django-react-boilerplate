@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer renders correctly 1`] = `
+<div
+  className="flex place-content-center py-4"
+>
+  <p>
+    Piwero
+  </p>
+</div>
+`;
