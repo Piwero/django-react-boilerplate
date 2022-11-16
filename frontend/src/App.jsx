@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import './App.css'
-import Footer from "./Footer/index.jsx";
+import Footer from "./components/Footer/index.jsx";
 
 function App() {
   const [count, setCount] = useState(0)
