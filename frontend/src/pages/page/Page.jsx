@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Header } from './Header';
+import { Header } from '../../stories/Header.jsx';
 import './page.css';
 
 export const Page = () => {
@@ -41,7 +41,7 @@ export const Page = () => {
         </ul>
         <p>
           Get a guided tutorial on component-driven development at{' '}
-          <a href="https://storybook.js.org/tutorials/" target="_blank" rel="noopener noreferrer">
+          <a href="frontend/src/pages/page/Page.jsx" target="_blank" rel="noopener noreferrer">
             Storybook tutorials
           </a>
           . Read more in the{' '}
